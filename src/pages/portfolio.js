@@ -57,7 +57,7 @@ const Portfolio = () => {
                 <a href={Furnessence} target='_blank' rel='noreferrer'><img src={thumbFurnessence} alt='furnessence' ></img></a>
                 <a href={tasteslikestrawberries2} target='_blank' rel='noreferrer'><img src={thumbtasteslikestrawberries2} alt='tasteslikestrawberries' ></img></a>
                 <a href={MachineManLayout} target='_blank' rel='noreferrer' ><img src={thumbMachineManLayout} alt='machineman' style={{width:'initial'}}></img></a>
-                <a href='https://tasteslikestrawberries.github.io/layouts/monochromeparticles/shop.html' target='_blank' rel='noreferrer'><img src={thumbMonochromeParticlesLayout2} alt='monochromeparticles' style={{width:'initial'}}></img></a>
+                <a href='https://annydot.github.io/layouts/monochromeparticles/shop.html' target='_blank' rel='noreferrer'><img src={thumbMonochromeParticlesLayout2} alt='monochromeparticles' style={{width:'initial'}}></img></a>
 
             <br/>
 

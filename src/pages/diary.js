@@ -101,7 +101,7 @@ const Diary = () => {
               </Link>{" "}
               section and on my
               <a
-                href="https://dribbble.com/tasteslikestrawberries"
+                href="https://dribbble.com/annydot"
                 target="_blank"
                 rel="noreferrer"
               >
